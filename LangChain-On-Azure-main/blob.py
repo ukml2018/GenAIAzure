@@ -1,7 +1,7 @@
 from azure.storage.blob import BlobServiceClient, BlobClient, ContainerClient
 import os
 
-connection_string = "DefaultEndpointsProtocol=https;AccountName=mystorageaccount10042024;AccountKey=m727vAgdnmNMXfvUuDiUayDKvF8mMJS6hxXha89UrYmmBgVfi0hQeptlD5xFHoPwpRZkEASTjvx6+AStfvfLsA==;EndpointSuffix=core.windows.net" 
+connection_string = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" 
 container_name = "mycontainer"
 blob_name = "mystorageaccount10042024"
 directory_path = "Data"
