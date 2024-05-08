@@ -1,0 +1,16 @@
+azure_storage==0.36.0
+langchain
+openai
+python-dotenv
+streamlit
+streamlit_chat
+azure-search-documents==11.4.0
+tiktoken
+azure.identity
+langchain_openai
+langchain_community
+unstructured
+openai
+langchain-openai
+langchain
+langchain_core
